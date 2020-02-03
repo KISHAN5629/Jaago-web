@@ -1,0 +1,9 @@
+{
+  "name": "respensive-website",
+  "version": "0.0.0",
+  "description": "respensive website",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
